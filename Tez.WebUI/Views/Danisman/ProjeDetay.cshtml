@@ -1,0 +1,39 @@
+﻿@model Tez.Entities.dbProje
+
+@{
+    ViewBag.Title = "YorumYap";
+}
+
+<h2>YorumYap</h2>
+
+<div>
+    <h4>dbTezFikir</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Danisman.DanismanMail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Danisman.DanismanMail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjeAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjeAd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjeIcerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjeIcerik)
+        </dd>
+        
+    </dl>
+</div>
+

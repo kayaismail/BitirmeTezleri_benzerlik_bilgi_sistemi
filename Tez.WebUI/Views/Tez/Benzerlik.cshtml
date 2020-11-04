@@ -1,0 +1,65 @@
+﻿@model Tez.WebUI.Models.Tezler
+@{
+    ViewBag.Title = "Sakarya Üniversitesi";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/Style.css">
+
+
+<div class="jumbotron">
+    <h1>Tez Intihal</h1>
+    <form id="contact" action="/Tez/Benzerlik" method="post">
+        <div class="row" >
+            <div class="position">
+                <fieldset class="bordd">
+                    <textarea  class="bordd" id="aranacak_kelime" name="aranacak_kelime" placeholder="Aranacak Tezin Başarı Kriterleri" tabindex="5" required></textarea>
+                </fieldset>
+                <fieldset  class="bordd">
+                    <button class="pulse-button" name="submit" type="submit" id="submit" data-submit="...Sending"><span class="spot"></span>Benzerlik Bul</button>
+                </fieldset>
+            </div>
+            <div class="col-md-12 padd">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">TezAdi</th>
+                            <th scope="col">Tez Yapanlar</th>
+                            <th scope="col">Danisman</th>
+                            @if (Model.TezBenzerlikSozluk != null)
+                            {
+                                <th scope="col">Benzerlik Orani(%)</th>
+                            }
+                            else
+                            {
+                                <th scope="col">Yil/Donem</th>
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.tezs)
+                        {
+
+                            <tr>
+                                <th scope="row"><a class="btn btn-default" href="@Url.Action("Detay", "Tez", new { id = item.Id })" target="_blank">Detaylar &raquo;</a></th>
+                                <td>@item.TezAdi</td>
+                                <td>@item.TezGerceklestirenler</td>
+                                <td>@item.Danisman</td>
+                                @if (Model.TezBenzerlikSozluk != null)
+                                {
+                                    <td>@Convert.ToInt32(Model.TezBenzerlikSozluk[item])</td>
+                                }
+                                else
+                                {
+                                    <td>@item.YilDonem</td>
+                                }
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </form>
+</div>
+
+

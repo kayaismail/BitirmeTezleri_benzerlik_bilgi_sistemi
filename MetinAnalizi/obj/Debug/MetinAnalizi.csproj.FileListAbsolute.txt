@@ -1,0 +1,52 @@
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\bin\Debug\MetinAnalizi.dll
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\bin\Debug\MetinAnalizi.pdb
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\bin\Debug\Nuve.dll
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.csprojAssemblyReference.cache
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CopyComplete
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.dll
+C:\Users\Sp\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.pdb
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\bin\Debug\MetinAnalizi.dll
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\bin\Debug\MetinAnalizi.pdb
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\bin\Debug\Nuve.dll
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CopyComplete
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.dll
+D:\Oncelikli\source\repos\ConsoleApp2\MetinAnalizi\obj\Debug\MetinAnalizi.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\bin\Debug\MetinAnalizi.dll
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\bin\Debug\MetinAnalizi.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\bin\Debug\Nuve.dll
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CopyComplete
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.dll
+D:\Oncelikli\source\repos\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\bin\Debug\MetinAnalizi.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\bin\Debug\MetinAnalizi.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\bin\Debug\Nuve.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.csprojAssemblyReference.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CopyComplete
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\obj\Debug\MetinAnalizi.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\MetinAnalizi\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\bin\Debug\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\bin\Debug\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\bin\Debug\Nuve.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\obj\Debug\MetinAnalizi.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\obj\Debug\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\MetinAnalizi\obj\Debug\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\bin\Debug\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\bin\Debug\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\bin\Debug\Nuve.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\obj\Debug\MetinAnalizi.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\obj\Debug\MetinAnalizi.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\obj\Debug\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\MetinAnalizi\obj\Debug\MetinAnalizi.pdb

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Tez.Entities.dbDanisman>
+
+@{
+    ViewBag.Title = "DanismanListesi";
+}
+    <link rel="stylesheet" type="text/css" href="~/Content/Tablo.css">
+<h2>Danisman Listesi</h2>
+
+<div class="jumbotron">
+    <h4>Danisman Listesi</h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DanismanAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DanismanMail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DanismanKontenjan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DanismanProjeleri)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DanismanAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DanismanMail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DanismanKontenjan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DanismanProjeleri.Count)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

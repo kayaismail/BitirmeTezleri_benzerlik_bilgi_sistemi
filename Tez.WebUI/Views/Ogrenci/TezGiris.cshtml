@@ -1,0 +1,49 @@
+﻿@model Tez.WebUI.Models.TezGirdi
+<link rel="stylesheet" type="text/css" href="~/Content/Style.css">
+
+<div class="jumbotron">
+    <div class="container">
+        <form id="contact" action="TezGiris" method="post" class="tezpdf">
+            <fieldset>
+                <p>Ödev Türü Seçiniz</p>
+                <label for="">BİLGİSAYAR MÜH. TASARIMI</label><br>
+                <input type="radio" id="BitirmeTeziMi" name="BitirmeTeziMi" value="false">
+                <label for="">BİTİRME ÇALIŞMASI</label><br>
+                <input type="radio" id="BitirmeTeziMi" name="BitirmeTeziMi" value="true"><br><br>
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="Danisman" name="Danisman" placeholder="Danisman" type="text" tabindex="1" required autofocus>
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="OgrenciAd1" name="OgrenciAd1" placeholder="Oğrenci Adı" type="text" tabindex="2" required><input class="bor" id="OgrenciNo1" name="OgrenciNo1" placeholder="Ögrenci Numarası" type="text" tabindex="6" required>
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="OgrenciAd2" name="OgrenciAd2" placeholder="Oğrenci Adı" type="text" tabindex="3"><input class="bor" id="OgrenciNo2" name="OgrenciNo2" placeholder="Ögrenci Numarası" type="text" tabindex="7">
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="OgrenciAd3" name="OgrenciAd3" placeholder="Oğrenci Adı" type="text" tabindex="4"><input class="bor" id="OgrenciNo3" name="OgrenciNo3" placeholder="Ögrenci Numarası" type="text" tabindex="8">
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="OgrenciAd4" name="OgrenciAd4" placeholder="Oğrenci Adı" type="text" tabindex="5"><input class="bor" id="OgrenciNo4" name="OgrenciNo4" placeholder="Ögrenci Numarası" type="text" tabindex="9">
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="OgrenciAd5" name="OgrenciAd5" placeholder="Oğrenci Adı" type="text" tabindex="5"><input class="bor" id="OgrenciNo5" name="OgrenciNo5" placeholder="Ögrenci Numarası" type="text" tabindex="10">
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="OgrenciAd6" name="OgrenciAd6" placeholder="Oğrenci Adı" type="text" tabindex="5"><input class="bor" id="OgrenciNo6" name="OgrenciNo6" placeholder="Ögrenci Numarası" type="text" tabindex="10">
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="Tarih" name="Tarih" placeholder="Tarih" type="text" tabindex="3" required>
+            </fieldset>
+            <fieldset>
+                <input class="bor" id="Konu" name="Konu" placeholder="Tez Konusu" type="text" tabindex="4" required>
+            </fieldset>
+            <fieldset>
+                <textarea class="bor" style="width:450px; height:150px" id="Yapilacaklar" name="Yapilacaklar" placeholder="Çalışmada İzlenecek Yol ve Başarı Kriterleri" tabindex="5" required></textarea>
+            </fieldset>
+            <fieldset class="bordd">
+                <button class="pulse-button" name="submit" type="submit" id="submit" data-submit="...Sending">Oluştur</button>
+            </fieldset>
+        </form>
+    </div>
+</div>

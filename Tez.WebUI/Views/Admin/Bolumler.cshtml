@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Tez.Entities.dbBolum>
+
+@{
+    ViewBag.Title = "Bolumler";
+}
+
+<h2>Bolumler</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BolumAd)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BolumAd)
+        </td>
+        <td>
+            <a class="btn btn-default" href="@Url.Action("BolumSil", "Admin", new { id = item.Id })" target="_blank">Sil &raquo;</a>
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,69 @@
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.BLL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.BLL.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.dll.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csprojAssemblyReference.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csproj.CopyComplete
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.BLL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.BLL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.Entities.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\EntityFramework.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.dll.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\Tez.Entities.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\bin\Debug\EntityFramework.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csproj.CopyComplete
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.BLL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.BLL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.DAL.dll.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csprojAssemblyReference.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.csproj.CopyComplete
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.BLL\obj\Debug\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\obj\Debug\Tez.BLL.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\obj\Debug\Tez.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\obj\Debug\Tez.BLL.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\obj\Debug\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.BLL\obj\Debug\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\obj\Debug\Tez.BLL.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\obj\Debug\Tez.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\obj\Debug\Tez.BLL.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\obj\Debug\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.BLL\obj\Debug\Tez.BLL.pdb

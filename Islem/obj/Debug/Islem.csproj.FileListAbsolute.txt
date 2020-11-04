@@ -1,0 +1,116 @@
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Islem.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Islem.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\MetinAnalizi.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.BLL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.DAL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.Entities.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Nuve.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\EntityFramework.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\MetinAnalizi.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.BLL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.DAL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.DAL.dll.config
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\Tez.Entities.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\EntityFramework.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\obj\Debug\Islem.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\obj\Debug\Islem.csproj.CopyComplete
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\obj\Debug\Islem.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\obj\Debug\Islem.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.PdfSharp.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\PdfSharp.Charting.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\PdfSharp.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.PdfSharp.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\PdfSharp.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\PdfSharp.Charting.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\de\PdfSharp.resources.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Islem\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Islem.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Islem.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\MetinAnalizi.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\PdfSharp.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.BLL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.DAL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Nuve.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\EntityFramework.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\MetinAnalizi.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.BLL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.DAL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.DAL.dll.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\PdfSharp.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\EntityFramework.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\obj\Debug\Islem.csprojAssemblyReference.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\obj\Debug\Islem.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\obj\Debug\Islem.csproj.CopyComplete
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\obj\Debug\Islem.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Islem\obj\Debug\Islem.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Islem.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Islem.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\HtmlRenderer.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Nuve.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\HtmlRenderer.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\PdfSharp.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\obj\Debug\Islem.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\obj\Debug\Islem.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\obj\Debug\Islem.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\obj\Debug\Islem.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Islem\obj\Debug\Islem.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Islem.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Islem.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Islem.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\HtmlRenderer.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Nuve.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\HtmlRenderer.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\PdfSharp.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\obj\Debug\Islem.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\obj\Debug\Islem.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\obj\Debug\Islem.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\obj\Debug\Islem.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Islem\obj\Debug\Islem.pdb

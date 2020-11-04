@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Tez.Entities.dbFakulte>
+
+@{
+    ViewBag.Title = "Fakulteler";
+}
+    <div class="jumbotron">
+        <h2>Fakulteler</h2>
+
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.FakulteAd)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FakulteAd)
+                    </td>
+                    <td>
+                        <a class="btn btn-default" href="@Url.Action("FakulteSil", "Admin", new { id = item.Id })" target="_blank">Detaylar &raquo;</a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+        </div>

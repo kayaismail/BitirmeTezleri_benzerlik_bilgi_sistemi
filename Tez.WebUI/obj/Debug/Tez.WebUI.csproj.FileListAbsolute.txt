@@ -1,0 +1,664 @@
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.dll.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.exe
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.exe
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Ninject.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.BLL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\WebGrease.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.Entities.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.BLL.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.dll.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Ninject.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.Entities.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csprojAssemblyReference.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CopyComplete
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.dll.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.exe
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.exe.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.rsp
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.exe
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.exe.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.rsp
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.AppContext.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Console.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Compression.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Pipes.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.AccessControl.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Claims.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.ValueTuple.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XPath.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.exe
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.exe.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.rsp
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Antlr3.Runtime.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Newtonsoft.Json.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Ninject.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Helpers.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Mvc.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Optimization.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Razor.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.BLL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.Entities.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\WebGrease.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.BLL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.dll.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Tez.Entities.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Ninject.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Helpers.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Mvc.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Optimization.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.Razor.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Newtonsoft.Json.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Antlr3.Runtime.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CopyComplete
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Islem.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\MetinAnalizi.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Nuve.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\Islem.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\MetinAnalizi.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\PdfSharp.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.PdfSharp.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\PdfSharp.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.PdfSharp.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\de\PdfSharp.resources.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\PdfSharp.Charting.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\PdfSharp.Charting.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.WebUI\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.dll.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.WebUI.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.exe
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\csc.rsp
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.exe
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\csi.rsp
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\EntityFramework.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Islem.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Ninject.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\PdfSharp.Charting.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\PdfSharp.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.BLL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\WebGrease.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\MetinAnalizi.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Nuve.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Islem.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.BLL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.DAL.dll.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Tez.Entities.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\EntityFramework.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Ninject.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\PdfSharp.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\PdfSharp.Charting.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\MetinAnalizi.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\de\PdfSharp.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csprojAssemblyReference.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CopyComplete
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.WebUI\obj\Debug\Tez.WebUI.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.WebUI.dll.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.WebUI.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.WebUI.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\csc.exe
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\csc.exe.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\csc.rsp
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\csi.exe
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\csi.exe.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\csi.rsp
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Console.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\vbc.exe
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\vbc.rsp
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\AdvancedStringBuilder.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\BundleTransformer.Core.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\BundleTransformer.SassAndScss.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\HtmlRenderer.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Islem.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\LibSassHost.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Ninject.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\PdfSharp.Charting.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Buffers.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Helpers.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Mvc.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Optimization.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Razor.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.WebPages.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\WebGrease.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Nuve.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Islem.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\AdvancedStringBuilder.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\BundleTransformer.Core.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\BundleTransformer.SassAndScss.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\HtmlRenderer.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\LibSassHost.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Ninject.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\PdfSharp.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\PdfSharp.Charting.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Helpers.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Mvc.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Optimization.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.Razor.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.WebPages.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\de\PdfSharp.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\obj\Debug\Tez.WebUI.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\obj\Debug\Tez.WebUI.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.WebUI\obj\Debug\Tez.WebUI.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.WebUI.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.WebUI.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.WebUI.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\csc.exe
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\csc.exe.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\csc.rsp
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\csi.exe
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\csi.exe.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\csi.rsp
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Console.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\vbc.exe
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\vbc.rsp
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\AdvancedStringBuilder.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\BundleTransformer.Core.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\BundleTransformer.SassAndScss.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Islem.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\LibSassHost.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Ninject.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\PdfSharp.Charting.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\PdfSharp.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Buffers.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Helpers.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Mvc.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Optimization.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Razor.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\WebGrease.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Nuve.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Islem.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Islem.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\AdvancedStringBuilder.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\BundleTransformer.Core.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\BundleTransformer.SassAndScss.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\LibSassHost.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Ninject.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\PdfSharp.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\PdfSharp.Charting.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Helpers.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Mvc.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Optimization.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.Razor.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\de\PdfSharp.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.WebUI.dll.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.WebUI.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.WebUI.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\csc.exe
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\csc.exe.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\csc.rsp
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\csi.exe
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\csi.exe.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\csi.rsp
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Console.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\vbc.exe
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\vbc.rsp
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\AdvancedStringBuilder.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\BundleTransformer.Core.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\BundleTransformer.SassAndScss.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Islem.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\LibSassHost.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Ninject.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\PdfSharp.Charting.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\PdfSharp.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Buffers.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Helpers.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Mvc.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Optimization.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Razor.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.BLL.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\WebGrease.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\MetinAnalizi.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Nuve.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Islem.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Islem.dll.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.BLL.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\AdvancedStringBuilder.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\BundleTransformer.Core.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\BundleTransformer.SassAndScss.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\LibSassHost.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Ninject.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\PdfSharp.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\PdfSharp.Charting.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Helpers.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Mvc.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Optimization.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.Razor.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\MetinAnalizi.pdb
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\de\PdfSharp.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.dll
+C:\Users\ismailkaya\Desktop\8.dönem\tez\Tezbilgi\Tez.WebUI\obj\Debug\Tez.WebUI.pdb

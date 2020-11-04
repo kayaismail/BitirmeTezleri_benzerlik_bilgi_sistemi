@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Tez.Entities.dbTezFikir>
+
+@{
+    ViewBag.Title = "TezFikirleriListele";
+}
+
+<h2>Tez/Proje Fikirleri Listele</h2>
+<link rel="stylesheet" type="text/css" href="~/Content/Tablo.css">
+<div class="jumbotron">
+    <h4>Öğrenciden Gelen Tez/Proje Fikirleri </h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Danisman.DanismanAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FikirAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FikirIcerik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TezFikirDurumu)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Danisman.DanismanAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FikirAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FikirIcerik)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TezFikirDurumu)
+                </td>
+                <td>
+                    @Html.ActionLink("Detaylar", "Detaylar", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

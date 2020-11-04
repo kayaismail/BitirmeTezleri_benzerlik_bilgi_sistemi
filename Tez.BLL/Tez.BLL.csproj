@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{569525FD-52DE-4AC6-8DFD-B07F22E52B08}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tez.BLL</RootNamespace>
+    <AssemblyName>Tez.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract\IBolumManager.cs" />
+    <Compile Include="Abstract\ICiktiManager.cs" />
+    <Compile Include="Abstract\IDanismanManager.cs" />
+    <Compile Include="Abstract\IFakulteManager.cs" />
+    <Compile Include="Abstract\IOgrenciManager.cs" />
+    <Compile Include="Abstract\IProjeManager.cs" />
+    <Compile Include="Abstract\ITezFikirManager.cs" />
+    <Compile Include="Abstract\ITezManager.cs" />
+    <Compile Include="Concrete\BolumManager.cs" />
+    <Compile Include="Concrete\CiktiManager.cs" />
+    <Compile Include="Concrete\DanismanManager.cs" />
+    <Compile Include="Concrete\FakulteManager.cs" />
+    <Compile Include="Concrete\OgrenciManager.cs" />
+    <Compile Include="Concrete\ProjeManager.cs" />
+    <Compile Include="Concrete\TezFikirManager.cs" />
+    <Compile Include="Concrete\TezManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tez.DAL\Tez.DAL.csproj">
+      <Project>{5F707358-A884-4FA4-AABE-A1438099F405}</Project>
+      <Name>Tez.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tez.Entities\Tez.Entities.csproj">
+      <Project>{849C9BD8-BD3D-45B3-A875-640E3C7D6F24}</Project>
+      <Name>Tez.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Islemler\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

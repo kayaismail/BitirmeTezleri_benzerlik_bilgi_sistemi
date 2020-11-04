@@ -1,0 +1,216 @@
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.dll.config
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csprojAssemblyReference.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csproj.CopyComplete
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.dll.config
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.Entities.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\Tez.Entities.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csproj.CopyComplete
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.dll.config
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Tez.DAL.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Buffers.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Memory.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Buffers.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Memory.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csprojAssemblyReference.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.csproj.CopyComplete
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.DAL\obj\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Buffers.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Memory.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Buffers.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Memory.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\obj\Debug\Tez.DAL.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\obj\Debug\Tez.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\obj\Debug\Tez.DAL.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\obj\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.DAL\obj\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Tez.DAL.dll.config
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Tez.DAL.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Buffers.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Memory.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Buffers.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Memory.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\obj\Debug\Tez.DAL.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\obj\Debug\Tez.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\obj\Debug\Tez.DAL.csproj.CopyComplete
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\obj\Debug\Tez.DAL.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.DAL\obj\Debug\Tez.DAL.pdb

@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" type="text/css" href="~/Content/Style.css">
+
+    <link href=@Url.Content("~/Content/Site.css") rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/lay.css">
+
+</head>
+<body>
+         
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <img class="logo" src="~/Content/img/logo.png" style="display: inline-block;">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Tez Intihal", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        @if (User.IsInRole("D"))
+                        {
+                            <li>@Html.ActionLink("Tezler", "Index", "Tez")</li>
+                            <li>@Html.ActionLink("Tez Benzerlik Bul", "Benzerlik", "Tez")</li>
+                            <li>@Html.ActionLink("Tez PDF Dönüşüm", "TezGiris", "Tez")</li>
+                            <li>@Html.ActionLink("Gelen Tez Fikirleri", "TezFikirleriListele", "Danisman")</li>
+                            <li>@Html.ActionLink("Proje Ekle", "ProjeEkle", "Danisman")</li>
+                            <li>@Html.ActionLink("Proje Listele", "ProjeListele", "Danisman")</li>
+                            <li>@Html.ActionLink("Sifre Degistir", "Panel", "Danisman")</li>
+                        }
+                        @if (User.IsInRole("O"))
+                        {
+                            <li>@Html.ActionLink("Tez Fikri Gonder", "TezFikirEkle", "Ogrenci")</li>
+                            <li>@Html.ActionLink("Bölüm Danışman Bilgileri", "DanismanListesi", "Ogrenci")</li>
+                            <li>@Html.ActionLink("Gönderilen Fikir Durumları", "TezFikirListe", "Ogrenci")</li>
+                            <li>@Html.ActionLink("Danışman Taraflı Projeler", "DanismanProjeleriListele", "Ogrenci")</li>
+                            <li>@Html.ActionLink("Tez PDF Dönüşüm", "TezGiris", "Ogrenci")</li>
+                            <li>@Html.ActionLink("Sifre Degistir", "Panel", "Ogrenci")</li>
+                        }@if (User.IsInRole("A"))
+                        {
+                            <li>@Html.ActionLink("Sistem Güncelleme", "Index", "Admin")</li>
+                            <li>@Html.ActionLink("Yeni Tez Ekle", "YeniTezEkle", "Admin")</li>
+                            <li>@Html.ActionLink("Fakülte Ekle", "FakulteEkle", "Admin")</li>
+                            <li>@Html.ActionLink("Bölum Ekle", "BolumEkle", "Admin")</li>
+                            <li>@Html.ActionLink("Tezler", "TezListele", "Admin")</li>
+                            <li>@Html.ActionLink("Fakulteler", "Fakulteler", "Admin")</li>
+                            <li>@Html.ActionLink("Bölumler", "Bolumler", "Admin")</li>
+                        }
+
+
+                        <li>@Html.ActionLink("Cikis", "Cikis", "Guvenlik")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+        </div>
+
+        <div class="container" id="bosluk">
+            <hr />
+            <footer  >
+                <p>&copy; @DateTime.Now - Sakarya Üniversitesi Tez Benzerlik Tespit</p>  <h5>Tüm Hakları Saklıdır. Developed by: Serkan Polat-İsmail Kaya </h5>
+            </footer>
+        </div>
+   
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

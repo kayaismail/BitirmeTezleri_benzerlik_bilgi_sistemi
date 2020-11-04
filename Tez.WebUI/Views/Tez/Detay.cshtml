@@ -1,0 +1,22 @@
+﻿@model Tez.Entities.dbTez
+
+@{
+    ViewBag.Title = "Detay";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+    <div class="jumbotron">
+        <h1 class="text-center">@Model.TezAdi</h1>
+        <br /><br />
+        <p class="lead">@Model.TezOzet</p>
+        <br />
+        <p>Anahtar Kelimeler : @Model.Keywords</p>
+        <p class="lead">@Model.Danisman</p>
+        <p class="lead">@Model.TezGerceklestirenler</p>
+        <p class="lead">@Model.YilDonem</p>
+        <p><a href="@Url.Action("Index", "Tez")" class="btn btn-primary btn-lg">&raquo;Geri Don </a></p>
+    </div>
+

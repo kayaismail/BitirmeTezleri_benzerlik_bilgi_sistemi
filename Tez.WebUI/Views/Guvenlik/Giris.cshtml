@@ -1,0 +1,55 @@
+﻿@model Tez.WebUI.Models.GirisSayfasi
+
+@{
+    ViewBag.Title = "Giris";
+}
+    <link rel="stylesheet" type="text/css" href="~/Content/Form.css">
+    <script type="text/javascript" src="~/Scripts/Form.js"></script>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <form class="form-horizontal"  >
+        <div class='box'>
+            <div class='box-form'>
+                <div class='box-login-tab'></div>
+                <div class='box-login-title'>
+                    <div class='i i-login'></div><h2>Giriş</h2>
+                </div>
+                <div class='box-login'>
+                    <div class='fieldset-body' id='login_form'  >
+                        <input onclick="openLoginInfo();" class='b b-form i i-more' title='Detay' />
+                        <p class='field'>
+                            @Html.LabelFor(model => model.MailAdresi, htmlAttributes: new { @class = "control-label col-md-2"  })
+                            @Html.EditorFor(model => model.MailAdresi, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.MailAdresi, "", new { @class = "text-danger" })
+                            
+                            <span id='valida' class='i i-warning'></span>
+                        </p>
+                        <p class='field'>
+
+                            @Html.LabelFor(model => model.Sifre, htmlAttributes: new { @class = "control-label col-md-2" })
+                            @Html.PasswordFor(model => model.Sifre, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Sifre, "", new { @class = "text-danger" })
+                            
+                            <span id='valida' class='i i-close'></span>
+                        </p>
+
+                        <input type='submit' value='Giriş' title='Get Started' class="btn" />
+
+                    </div>
+                </div>
+            </div>
+            <div class='box-info'>
+                <p>
+                    <input onclick="closeLoginInfo();" class='b b-info i i-left' title='Back to Sign In' /><h3>Kayit Ol</h3>
+                </p>
+                <div class='line-wh'></div>
+                @Html.ActionLink("Ogrenci Kayit ", "OgrenciKayit", "Guvenlik", null, new { @class = "b-cta" })
+                <div class='line-wh'></div>
+                @Html.ActionLink("Danisman Kayit ", "DanismanKayit", "Guvenlik", null, new { @class = "b-cta" })
+            </div>
+        </div>
+    </form>
+
+}

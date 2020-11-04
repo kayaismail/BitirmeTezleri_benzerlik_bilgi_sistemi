@@ -1,0 +1,34 @@
+﻿@model Tez.WebUI.Models.Tezler
+
+
+    <div class="jumbotron">
+        <h1>Tezler</h1>
+        <p class="lead">Sakarya Üniversitesi 2016/2018 Seneleri Arasında Alınan Tüm Bitirme Tezleri.</p>
+
+
+
+        <ul class="pagination">
+            @Html.Pager(Model.PagingInfo)
+        </ul>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Tezin Adı</th>
+                    <th scope="col">Tezi Gerçekleyenler</th>
+                    <th scope="col">Danışmanı</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.tezs)
+                {
+                    <tr>
+                        <th scope="row"><a class="btn btn-default" href="@Url.Action("Detay", "Tez", new { id = item.Id })" target="_blank">Detaylar &raquo;</a></th>
+                        <td>@item.TezAdi</td>
+                        <td>@item.TezGerceklestirenler</td>
+                        <td>@item.Danisman</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

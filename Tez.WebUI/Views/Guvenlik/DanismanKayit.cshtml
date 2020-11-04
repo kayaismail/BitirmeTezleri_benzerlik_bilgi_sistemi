@@ -1,0 +1,69 @@
+﻿@model Tez.WebUI.Models.DanismanBolum
+
+@{
+    ViewBag.Title = "DanismanKayit";
+}
+
+<link rel="stylesheet" type="text/css" href="~/Content/Form.css">
+<script type="text/javascript" src="~/Scripts/Form.js"></script>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class='box' >
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+      
+            <div class='box-login-tab'></div>
+            <div class='box-login-title'>
+                <div class='i i-login'></div><h2  id="danis">Danışman Kayıt</h2>
+            </div>
+            <div class='box-login'>
+                <div class='fieldset-body' id='login_form'>
+                    <p class='field'>
+                        @Html.LabelFor(model => model.dbBolums, "Fakulte:", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                        <select class="form-control" id="SecilenBolumId" name="SecilenBolumId">
+                            @foreach (var item in Model.dbBolums)
+                            {
+                                <option value="@item.BolumAd">@item.BolumAd</option>
+                            }
+                        </select>
+                        @Html.ValidationMessageFor(model => model.dbBolums, "", new { @class = "text-danger" })
+                        <span id='valida' class='i i-close'></span>
+                    </p>
+                    <p class='field'>
+
+                        @Html.LabelFor(model => model.dbDanisman.DanismanAd, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                        @Html.EditorFor(model => model.dbDanisman.DanismanAd, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.dbDanisman.DanismanAd, "", new { @class = "text-danger" })
+
+                        <span id='valida' class='i i-warning'></span>
+                    </p>
+                    <p class='field'>
+                        @Html.LabelFor(model => model.dbDanisman.DanismanMail, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                        @Html.EditorFor(model => model.dbDanisman.DanismanMail, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.dbDanisman.DanismanMail, "", new { @class = "text-danger" })
+                        <span id='valida' class='i i-close'></span>
+                    </p>
+
+                    <p class='field'>
+                        @Html.LabelFor(model => model.dbDanisman.DanismanKontenjan, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                        @Html.EditorFor(model => model.dbDanisman.DanismanKontenjan, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.dbDanisman.DanismanKontenjan, "", new { @class = "text-danger" })
+                        <span id='valida' class='i i-close'></span>
+                    </p>
+
+                    <input type="submit" value="Kayit Ol" class="btn btn-default" />
+                    @Html.ActionLink("Giriş Sayfası ", "Giris", "Guvenlik", null, new { @class = "b-cta" })
+                </div>
+            </div>
+        
+
+    </div>
+
+}
+
+

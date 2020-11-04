@@ -1,0 +1,27 @@
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.Entities\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.Entities\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.csprojAssemblyReference.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.dll
+C:\Users\Sp\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.Entities\bin\Debug\Tez.Entities.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.Entities\bin\Debug\Tez.Entities.pdb
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.csprojAssemblyReference.cache
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.dll
+D:\Oncelikli\source\repos\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.Entities\bin\Debug\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.Entities\bin\Debug\Tez.Entities.pdb
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.dll
+C:\Users\Sp\Desktop\BitirmeTezi\TezBenzerlik\Tez.Entities\obj\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.Entities\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.Entities\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.Entities\obj\Debug\Tez.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.Entities\obj\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Yeni klasör\Tez.Entities\obj\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.Entities\bin\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.Entities\bin\Debug\Tez.Entities.pdb
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.Entities\obj\Debug\Tez.Entities.csprojAssemblyReference.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.Entities\obj\Debug\Tez.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.Entities\obj\Debug\Tez.Entities.dll
+C:\Users\ismailkaya\Desktop\Tezbilgi\Tez.Entities\obj\Debug\Tez.Entities.pdb

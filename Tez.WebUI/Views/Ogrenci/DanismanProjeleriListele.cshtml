@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Tez.Entities.dbProje>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" href="~/Content/Tablo.css">
+<h2>Danişman Projeleri</h2>
+
+<div class="jumbotron">
+    <h4>Danişman Projeleri</h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Danisman.DanismanAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjeAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjeIcerik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Danisman.DanismanMail)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Danisman.DanismanAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjeAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjeIcerik)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Danisman.DanismanMail)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

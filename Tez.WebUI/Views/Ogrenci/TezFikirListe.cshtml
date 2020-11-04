@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Tez.Entities.dbTezFikir>
+
+@{
+    ViewBag.Title = "TezFikirListe";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/Tablo.css">
+<h2>Tez Fikir Listesi</h2>
+
+<div class="jumbotron">
+
+    <h4>Tez Fikir Durumlari</h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Danisman.DanismanAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FikirAd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FikirIcerik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FikirYorum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TezFikirDurumu)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Danisman.DanismanAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FikirAd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FikirIcerik)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FikirYorum)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TezFikirDurumu)
+                </td>
+                <td>
+                    @if (item.FikirYorum != "")
+                    {
+                        @Html.ActionLink("Details |", "Details", new { id = item.Id })
+                    }
+                    @Html.ActionLink(" Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
