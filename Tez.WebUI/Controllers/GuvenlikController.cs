@@ -29,8 +29,8 @@ namespace Tez.WebUI.Controllers
             this.danismanManager = danismanManager;
         }
         public ActionResult Giris()
-        {
-          //      TezContext tez = new TezContext();
+        { //kod sadece ilk calistirildiginda database olusmasi icin calistirilmasi gereken iki satir 
+          // TezContext tez = new TezContext();
           //  tez.Database.Create();
             return View(new GirisSayfasi());
         }
