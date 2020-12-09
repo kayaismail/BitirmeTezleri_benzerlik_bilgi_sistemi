@@ -3,3 +3,4 @@
  
  
  Tez.WebUI/Controllers/GuvenlikController.cs içerisinde Giris() metodu içerisindeki 2 yorum satırı haline getirilmiş kod database in oluşturulmasu için 1 sefere mahsus çalıştırılmalı.
+Serkan Polat ile birlikte geliştirildi. @SerkanPolat
